@@ -1,0 +1,9 @@
+/.vscode
+composer.phar
+.DS_Store
+/vendor
+.vercel
+.env
+/public/banner.psd
+/public/header.psd
+/public/banner.png
